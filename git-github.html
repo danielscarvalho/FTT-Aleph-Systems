@@ -4,36 +4,37 @@
 <body>
 <h1>Git & GitHub passo a passo</h1>
   
-No site do GitHub criar um novo repositório: www.github.com
+<p>No site do GitHub criar um novo repositório: <a href="www.github.com">www.github.com</a></p>
   
-No diretório do seu projeto WEB (ou Java, Python, etc) executar os comandos:
-
+<p>No diretório do seu projeto WEB (ou Java, Python, etc) executar os comandos:</p>
+<p>
 1. Criar um arquivo texto markdown (.md) para detalhar seu projeto:
 <pre>echo "# FTT-Aleph-Systems" >> README.md</pre>
-  
+</p><p>  
 2. Iniciar o git no seu projeto, este comando cria o diretório oculto <b>.git</b> no diretório do projeto  
 <pre>git init</pre>
-
+</p><p>
 3. Adicionar os arquivos do seu projeto no git (HEAD)
 <pre>git add README.md</pre>
 <pre>git add *</pre>
-
+</p><p>
 4. Fechar um conjunto de modificações
 <pre>git commit -m "first commit"</pre>
-  
+</p><p>  
 5. Estabelecer qual é o repositório no GitHub que será utilizado (isso é necessário apenas definir apenas uma vez)  
 <pre>git remote add origin https://github.com/danielscarvalho/FTT-Aleph-Systems.git</pre>
-  
+</p><p>  
 6. Se estiver em uma rede com proxy, incluir os parâmetros  
 <pre>git config --global http.proxy http://<ra>:<senha>@<PROXY IP>:8080</pre>
-
+</p><p>
 7. Enviar o código para o GitHub (Nuvem)
 <pre>git push -u origin master</pre>
+</p>
 <hr>
 Para publicar sua página WEB estática com arquivos HTML5 e CSS3, arquivos de imagem, txt, etc...
 No seu repositório do GitHub selecione o menu <b>Settings</b> vá para o final da página na sessão <p>GitHub Pages</p> e em <b>Source</b>
 selecione <b>master branch</b>.
 <hr>
-Para compartilhar seu projeto com a equipe selecione o menu <b>Settings</b>, <b>Colaborators</b> e adicione os usuários...
+Para compartilhar seu projeto com a equipe selecione o menu <b>Settings</b>, <b>Colaborators</b> e adicione os membros do seu grupo...
 </body>
 </html>
