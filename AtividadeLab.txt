@@ -24,4 +24,8 @@ git status
 
 git config --global http.proxy http://<USUARIO>:<SENHA>@10.5.17.105:8080
 
-Referência: https://books.goalkicker.com/
+Referência: 
+
+https://books.goalkicker.com/
+https://i.redd.it/8341g68g1v7y.png
+
