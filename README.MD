@@ -4,10 +4,10 @@
 
 ### Objetivos da aula de hoje
 
-1. Instalar o Visual Studio Code
+1. Instalar o Visual Studio Code: https://code.visualstudio.com/download
 2. No VS Code instalar o plug-in "Live Server"
-3. Instalar o git
-4. Criar uma conta no GitHub
+3. Instalar o git: https://git-scm.com/downloads
+4. Criar uma conta no GitHub: https://github.com/
 5. Criar um repositório novo: FTT-WEB-\<SUAS INICIAIS\>
 6. Escolher um amigo para participar do projeto com você
 	No site GitHub - Entrar em Settings e Collaborators e adicionar seu amigo
