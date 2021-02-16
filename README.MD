@@ -13,7 +13,7 @@
 	No site GitHub - Entrar em Settings e Collaborators e adicionar seu amigo
 	Seu amigo vai receber um e-mail do GiHub para confirmar a participação
 7. Clonar o seu projeto na pasta local (Documentos)
-8. Criar seus arquivos front-end WEB (HTML, CSS, JavaScript)
+8. Criar seus arquivos front-end WEB (HTML, CSS, JavaScript) e UNICODE
 9. Adicionar os arquivos ao git local e ao GitHub
 10. Sincronizar os arquivos com o GitHub
 11. Publicar sua página WEB no GitHub: Settings, Options, GitHub Pages
