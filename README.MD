@@ -10,8 +10,8 @@
 4. Criar uma conta no GitHub: https://github.com/
 5. Criar um repositório novo: FTT-WEB-\<SUAS INICIAIS\>
 6. Escolher um amigo para participar do projeto com você
-	No site GitHub - Entrar em Settings e Collaborators e adicionar seu amigo
-	Seu amigo vai receber um e-mail do GiHub para confirmar a participação
+	- No site GitHub - Entrar em Settings e Collaborators e adicionar seu amigo
+	- Seu amigo vai receber um e-mail do GiHub para confirmar a participação
 7. Clonar o seu projeto na pasta local (Documentos)
 8. Criar seus arquivos front-end WEB (HTML, CSS, JavaScript) e UNICODE
 9. Adicionar os arquivos ao git local e ao GitHub
@@ -34,4 +34,4 @@ git config --global http.proxy http://<USUARIO>:<SENHA>@10.5.17.105:8080
 
 - https://books.goalkicker.com/
 - https://i.redd.it/8341g68g1v7y.png
-
+- https://home.unicode.org/
