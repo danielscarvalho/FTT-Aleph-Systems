@@ -8,7 +8,7 @@
 2. No VS Code instalar o plug-in "Live Server"
 3. Instalar o git
 4. Criar uma conta no GitHub
-5. Criar um repositório novo: FTT-WEB-<SUAS INICIAIS>
+5. Criar um repositório novo: FTT-WEB-\<SUAS INICIAIS\>
 6. Escolher um amigo para participar do projeto com você
 	No site GitHub - Entrar em Settings e Collaborators e adicionar seu amigo
 	Seu amigo vai receber um e-mail do GiHub para confirmar a participação
